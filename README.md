@@ -167,5 +167,3 @@ Directories & Files
     |           |                                                   root user, queues, ...)
     |           |--- /otrs-schema-post.(mysql|postgresql|*).sql (create foreign keys script)
     |
-
-Verification123
